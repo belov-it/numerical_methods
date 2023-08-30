@@ -129,9 +129,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="numerical_methods.cpp" />
+    <ClCompile Include="ODE_Solver.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ode_solve.h" />
+    <ClInclude Include="ODE_Solver.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -18,9 +18,12 @@
     <ClCompile Include="numerical_methods.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ODE_Solver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ode_solve.h">
+    <ClInclude Include="ODE_Solver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
