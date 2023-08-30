@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/numerical_methods/XLS Worksheet.xls
+/numerical_methods/results1D.txt
+/numerical_methods/results2D.txt
+/numerical_methods/hello.txt
